@@ -4,6 +4,8 @@
 	✅Bem vindo ao meu GitHub🚀
 </h1>
 
+<img align="right" width="400" height="400" src="https://user-images.githubusercontent.com/57039079/68556083-b2038700-0428-11ea-8add-e9abd09f6b23.gif">
+
 ### 👦Sobre mim :seedling: : 
 - 👋 Chamo-me **Antonino Calisto**, tenho 26 anos.
 - 📌  De São Luís, Maranhão, Brasil.
@@ -34,6 +36,22 @@
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=antonino-calisto&hide=scss&layout=compact&theme=cobalt&title_color=2ED3EA)
 
 <hr>
+
+<br/>
+
+<p >
+   <img  src="https://badges.pufler.dev/repos/antoninocalisto" alt=""  /> 
+   <img  src="https://badges.pufler.dev/years/antoninocalisto" alt="" />
+   <img  src="https://komarev.com/ghpvc/?username=antoninocalisto&color=green" alt="" />
+</p>
+
+![Visitor Count](https://profile-counter.glitch.me/{antoninocalisto}/count.svg)
+
+<details>
+   <summary>📊 Github Stats</summary>
+   <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=antoninocalisto&show_icons=true&theme=gotham" alt="Antonino Calisto | Stats" />
+</details>
+
 
 ## ✅ Entre em contato! ✉️
 
