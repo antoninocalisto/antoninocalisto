@@ -30,13 +30,6 @@
 
 ### :bulb:  Estatísticas gerais 
  
-[![Antonino github stats](https://github-readme-stats.vercel.app/api?username=antonino-calisto&theme=cobalt&show_icons=true)](https://github.com/antoninocalisto/github-readme-stats)
-
-### 📈  linguagens mais usadas 
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=antonino-calisto&hide=scss&layout=compact&theme=cobalt&title_color=2ED3EA)
-
-<hr>
-
 <br/>
 
 <p >
@@ -51,6 +44,11 @@
    <summary>📊 Github Stats</summary>
    <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=antoninocalisto&show_icons=true&theme=gotham" alt="Antonino Calisto | Stats" />
 </details>
+
+### 📈  linguagens mais usadas 
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=antoninocalisto&hide=scss&layout=compact&theme=cobalt&title_color=2ED3EA)
+
+<hr>
 
 
 ## ✅ Entre em contato! ✉️
