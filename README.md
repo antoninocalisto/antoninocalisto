@@ -28,10 +28,10 @@
 
 ### :bulb:  Estatísticas gerais 
  
-[![Erickson github stats](https://github-readme-stats.vercel.app/api?username=Erickson-lopes-dev&theme=cobalt&show_icons=true)](https://github.com/Erickson-lopes-dev/github-readme-stats)
+[![Antonino github stats](https://github-readme-stats.vercel.app/api?username=antonino-calisto&theme=cobalt&show_icons=true)](https://github.com/antoninocalisto/github-readme-stats)
 
 ### 📈  linguagens mais usadas 
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Erickson-lopes-dev&hide=scss&layout=compact&theme=cobalt&title_color=2ED3EA)
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=antonino-calisto&hide=scss&layout=compact&theme=cobalt&title_color=2ED3EA)
 
 <hr>
 
