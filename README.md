@@ -1,7 +1,6 @@
-# Olá, Eu sou o Antonino! :D
 
 <h1 align="center"> 
-	✅Bem vindo ao meu GitHub🚀
+	🚀Bem vindo ao meu GitHub
 </h1>
 
 <img align="right" width="400" height="400" src="https://user-images.githubusercontent.com/57039079/68556083-b2038700-0428-11ea-8add-e9abd09f6b23.gif">
