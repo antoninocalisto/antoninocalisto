@@ -42,9 +42,8 @@
 ## ⚡ GitHub Stats
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=antoninocalisto&show_icons=true&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antoninocalisto&hide=TeX&layout=compact)
 
-### 📈  linguagens mais usadas 
+### 📈  Linguagens mais usadas 
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=antoninocalisto&hide=scss&layout=compact&theme=cobalt&title_color=2ED3EA)
 
 <hr>
