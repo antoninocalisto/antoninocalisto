@@ -41,8 +41,7 @@
 
 ## ⚡ GitHub Stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=alissonandrade2020&show_icons=true&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antoninocalisto&hide=TeX&layout=compact)
+[!GitHub stats](https://github-readme-stats.vercel.app/api?username=antoninocalisto)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📈  linguagens mais usadas 
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=antoninocalisto&hide=scss&layout=compact&theme=cobalt&title_color=2ED3EA)
