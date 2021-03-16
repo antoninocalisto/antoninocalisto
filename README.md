@@ -39,10 +39,10 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/{antoninocalisto}/count.svg)
 
-<details>
-   <summary>📊 Github Stats</summary>
-   <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=antoninocalisto&show_icons=true&theme=gotham" alt="Antonino Calisto | Stats" />
-</details>
+## ⚡ GitHub Stats
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=alissonandrade2020&show_icons=true&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antoninocalisto&hide=TeX&layout=compact)
 
 ### 📈  linguagens mais usadas 
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=antoninocalisto&hide=scss&layout=compact&theme=cobalt&title_color=2ED3EA)
