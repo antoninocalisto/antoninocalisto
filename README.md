@@ -8,7 +8,7 @@
 ### 👦Sobre mim :seedling: : 
 - 👋 Chamo-me **Antonino Calisto**, tenho 26 anos.
 - 📌  De São Luís, Maranhão, Brasil.
-- 💼 Atualmente sou desenvolvedor de sistemas Jr(Frontend e Backend - quase pleno).
+- 💼 Atualmente sou desenvolvedor de sistemas e Cientista de dados(Frontend, Backend para web e pleno como cientista de dados).
 - 🎓 Sou formado em Diversos **Cursos Online([Cerificados](https://github.com/antoninocalisto/Certificates))**, **Documentações**, **Pesquisas** e muita **Prática** como um Bom **Autodidata**! 
 - 💬 Pergunte-me sobre **Python**, **Data Science**, **Angular JS**, **Node JS**, **ASP.NET Core**, **Oracle** e **MySQL** que posso te ajudar!
 - 🛠️ Estudando para me tornar um **Data Engineer e Full Stack Programator**.
