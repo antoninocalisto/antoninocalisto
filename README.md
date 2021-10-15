@@ -10,7 +10,7 @@
 - 📌  De São Luís, Maranhão, Brasil.
 - 💼 Atualmente sou desenvolvedor de sistemas e Cientista de dados(Frontend, Backend para web e pleno como cientista de dados).
 - 🎓 Sou formado em Diversos **Cursos Online([Cerificados](https://github.com/antoninocalisto/Certificados))**, **Documentações**, **Pesquisas** e muita **Prática** como um Bom **Autodidata**! 
-- 💬 Pergunte-me sobre **Python**, **Data Science**, **Angular JS**, **Node JS**, **ASP.NET Core**, **Oracle** e **MySQL** que posso te ajudar!
+- 💬 Pergunte-me sobre **C#**, **C++** **Python**, **Data Science**, **Angular JS**, **Node JS**, **ASP.NET Core**, **Oracle** e **MySQL** que posso te ajudar!
 - 🛠️ Estudando para me tornar um **Data Engineer e Full Stack Programator**.
 - 🔭 Curiosidades: jogar futebol/futsal; investir na B3; grande gosto por aprender novas tecnologias.
 
