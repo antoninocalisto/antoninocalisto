@@ -6,18 +6,18 @@
 <img align="right" width="400" height="400" src="https://user-images.githubusercontent.com/57039079/68556083-b2038700-0428-11ea-8add-e9abd09f6b23.gif">
 
 ### 👦Sobre mim :seedling: : 
-- 👋 Chamo-me **Antonino Calisto**, tenho 26 anos.
-- 📌  De São Luís, Maranhão, Brasil.
-- 💼 Atualmente sou desenvolvedor de sistemas e Cientista de dados(Frontend, Backend para web e pleno como cientista de dados).
-- 🎓 Sou formado em Diversos **Cursos Online([Cerificados](https://github.com/antoninocalisto/Certificados))**, **Documentações**, **Pesquisas** e muita **Prática** como um Bom **Autodidata**! 
-- 💬 Pergunte-me sobre **C#**, **C++** **Python**, **Data Science**, **Angular**, **Node JS**, **ASP.NET Core**, **Oracle** e **MySQL** que posso te ajudar!
-- 🛠️ Estudando para me tornar um **Data Engineer e Full Stack Programator**.
+- 👋 Chamo-me **Antonino Calisto**, tenho 28 anos.
+- 📌  De São Jose dos Campos, São Paulo, Brasil.
+- 💼 Atualmente sou desenvolvedor de sistemas e Cientista de dados(Frontend, Backend para web  e entusiasta de ciências de dados).
+- 🎓 Sou formado em Diversos **Cursos Online([Certificados](https://github.com/antoninocalisto/Certificados))**, **Documentações**, **Pesquisas** e muita **Prática** como um Bom **Autodidata**! 
+- 💬 Pergunte-me sobre **React js**,  **Angular**, **Javascript**, **Python**, **Django**, **Data Science**, **Postgree**, **Oracle** e **MySQL** que posso te ajudar!
+- 🛠️ Estudando para me tornar um **Data Engineer e Full Stack Web Programator**.
 - 🔭 Curiosidades: jogar futebol/futsal; investir na B3; grande gosto por aprender novas tecnologias.
 
 <hr>
 
 ### ⚡ Habilidades:
-- ![Python](https://img.shields.io/badge/-Python-3776AB?&logo=Python&logoColor=FFFFFF) ![Angular JS](https://img.shields.io/badge/Angular%20JS-FF0000?&logoColor=FFFFFF)   ![Visualização De Dados](https://img.shields.io/badge/-Visualização%20De%20Dados-3776AB?&logoColor=FFFFFF) ![Oracle](https://img.shields.io/badge/-Automação-3776AB?&logoColor=FFFFFF) ![Git](https://img.shields.io/badge/-Git-F05032?&logo=git&logoColor=FFFFFF) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?&logo=HTML5&logoColor=FFFFFF) ![Node JS](https://img.shields.io/badge/Node%20JS-006600?&logoColor=FFFFFF) ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-084d6e?&logoColor=FFFFFF) ![Data Science](https://img.shields.io/badge/Data%20Science-084d6e?&logoColor=FFFFFF)
+- ![Python](https://img.shields.io/badge/-Python-3776AB?&logo=Python&logoColor=FFFFFF) ![Django](https://img.shields.io/badge/-Django-008000?&logo=Django&logoColor=FFFFFF) ![Data Science](https://img.shields.io/badge/Data%20Science-084d6e?&logoColor=FFFFFF) ![Visualização De Dados](https://img.shields.io/badge/-Visualização%20De%20Dados-3776AB?&logoColor=FFFFFF) ![Oracle](https://img.shields.io/badge/-Automação-3776AB?&logoColor=FFFFFF) ![Git](https://img.shields.io/badge/-Git-F05032?&logo=git&logoColor=FFFFFF) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?&logo=HTML5&logoColor=FFFFFF) ![Javascript](https://img.shields.io/badge/Javascript-006600?&logoColor=FFFFFF) ![Angular](https://img.shields.io/badge/Angular-FF0000?&logoColor=FFFFFF) ![React js](https://img.shields.io/badge/React%20JS-084d6e?&logoColor=ff00ff)
 
 ### 📦 Databases:
 - ![MySql](https://img.shields.io/badge/-MySql-003B57?&logo=MySQL&logoColor=FFFFFF) ![Oracle](https://img.shields.io/badge/-Oracle-336791?&logo=Oracle&logoColor=FFFFFF) ![SQLite](https://img.shields.io/badge/-SQLite-4479A1?&logo=sqlite&logoColor=FFFFFF)
