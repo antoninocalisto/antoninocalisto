@@ -6,7 +6,7 @@
 <img align="right" width="400" height="400" src="https://user-images.githubusercontent.com/57039079/68556083-b2038700-0428-11ea-8add-e9abd09f6b23.gif">
 
 ### 👦Sobre mim :seedling: : 
-- 👋 Chamo-me **Antonino Calisto**, tenho 28 anos.
+- 👋 Chamo-me **Antonino Calisto**, tenho 30 anos.
 - 📌  De São Jose dos Campos, São Paulo, Brasil.
 - 💼 Atualmente sou desenvolvedor de sistemas e Cientista de dados(Frontend, Backend para web  e entusiasta de ciências de dados).
 - 🎓 Sou formado em Diversos **Cursos Online([Certificados](https://github.com/antoninocalisto/Certificados))**, **Documentações**, **Pesquisas** e muita **Prática** como um Bom **Autodidata**! 
